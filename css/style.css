@@ -1,0 +1,24 @@
+h1 {
+    color: darkcyan;
+}
+
+.title p {
+    color: brown;
+}
+
+.list.link {
+    color:darkgoldenrod; 
+}
+
+.diving-suit ~ p {
+    color:magenta;
+}
+
+.parachute > p {
+    color: darkred;
+}
+
+.car p {
+    color:cornflowerblue; 
+}
+
